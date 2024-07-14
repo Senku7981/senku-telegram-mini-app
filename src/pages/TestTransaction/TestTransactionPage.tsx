@@ -14,7 +14,7 @@ const myTransaction = {
   messages: [
     {
       address: "UQDwfz1cu0nchgSl88_IQbJMnnFAC8jQkbt58ZPFErushP4b",
-      amount: toNano(0.05).toString(),
+      amount: toNano(0.01).toString(),
       payload: body.toBoc().toString("base64"), // payload with comment in body
     },
   ],
