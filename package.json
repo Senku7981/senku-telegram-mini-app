@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://senku7981.github.io/senku-telegram-mini-app/",
+  "homepage": "https://senku7981.github.io/senku-telegram-mini-app/senku",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
