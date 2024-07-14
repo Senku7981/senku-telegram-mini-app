@@ -1,5 +1,6 @@
 body {
   background: var(--tg-theme-secondary-bg-color, white);
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
